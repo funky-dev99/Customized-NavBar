@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nextbus_passenger/colors.dart';
-import 'package:nextbus_passenger/pages/startTripPage.dart';
 
-import '../pages/homePage.dart';
-import '../pages/paymentPage.dart';
 
 class MyNavBarHome extends StatefulWidget {
   const MyNavBarHome({super.key});
